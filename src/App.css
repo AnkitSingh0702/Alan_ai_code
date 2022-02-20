@@ -1,0 +1,15 @@
+body{
+
+  background-color: #282c34;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.App-logo {
+  height: 40vmin;
+ margin-top: 100px;
+ border-radius: 10px;
+ box-shadow: 0 -2px 10px rgb(110, 109, 109);
+}
