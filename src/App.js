@@ -13,7 +13,7 @@ function App() {
   const { View } = useLottie(options);
   useEffect(() => {
     alanBtn({
-      key: 'b76de1bad4cb13585196c9d973ceffa22e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: 'Enter your own key',
       onCommand: (commandData) => {
         if (commandData.command === 'go:back') {
           console.log(commandData)
